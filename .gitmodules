@@ -1,0 +1,3 @@
+[submodule "vbase"]
+	path = vbase
+	url = https://github.com/algos-soft/vbase.git
